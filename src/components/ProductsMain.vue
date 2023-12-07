@@ -45,6 +45,46 @@
           </div>
         </div>
 
+        <div class="produto">
+          <img src="https://fakeimg.pl/284x284/060707/00fbdb?text=IMAGEM+AQUI&font=bebas" alt="Categoria X">
+          <div class="detalhes">
+            <p class="nome-produto">Título do Produto</p>
+            <p class="categoria">Categoria</p>
+            <p class="preco">R$ 1929,59</p>
+            <button class="carrinho">Adicionar ao Carrinho</button>
+          </div>
+        </div>
+
+        <div class="produto">
+          <img src="https://fakeimg.pl/284x284/060707/00fbdb?text=IMAGEM+AQUI&font=bebas" alt="Categoria X">
+          <div class="detalhes">
+            <p class="nome-produto">Título do Produto</p>
+            <p class="categoria">Categoria</p>
+            <p class="preco">R$ 1929,59</p>
+            <button class="carrinho">Adicionar ao Carrinho</button>
+          </div>
+        </div>
+
+        <div class="produto">
+          <img src="https://fakeimg.pl/284x284/060707/00fbdb?text=IMAGEM+AQUI&font=bebas" alt="Categoria X">
+          <div class="detalhes">
+            <p class="nome-produto">Título do Produto</p>
+            <p class="categoria">Categoria</p>
+            <p class="preco">R$ 1929,59</p>
+            <button class="carrinho">Adicionar ao Carrinho</button>
+          </div>
+        </div>
+
+        <div class="produto">
+          <img src="https://fakeimg.pl/284x284/060707/00fbdb?text=IMAGEM+AQUI&font=bebas" alt="Categoria X">
+          <div class="detalhes">
+            <p class="nome-produto">Título do Produto</p>
+            <p class="categoria">Categoria</p>
+            <p class="preco">R$ 1929,59</p>
+            <button class="carrinho">Adicionar ao Carrinho</button>
+          </div>
+        </div>
+
       </div>
     </div>
   </div>
